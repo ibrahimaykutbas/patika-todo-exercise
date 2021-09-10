@@ -8,7 +8,7 @@ function Footer() {
       <CardFooter align="right" style={{ paddingRight: 25, marginBottom: 10 }}>
         Patika.dev <br />
         Frontend Web Development Patikası <br />
-        Redux To-do App Ödev <br />
+        Redux To-do App Exercise <br />
       </CardFooter>{" "}
     </>
   );
