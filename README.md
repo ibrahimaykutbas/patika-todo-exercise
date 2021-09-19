@@ -1,7 +1,5 @@
-# Getting Started with Create React App
-
-[Project Link](https://patika-todo-exercise.web.app/) <br> <br>
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Patika To-do Exercise
+[Project Link](https://patika-todo-exercise.web.app/)
 ## Built With
 ReactJS
 ## Tools
@@ -17,7 +15,7 @@ ReactJS
 ## Getting Started
 Clone this repository on your local machine.<br/><br/>
 `git clone https://github.com/ibrahimaykutbas/patika-todo-exercise`<br/><br/>
-`cd northwind-redux`<br/><br/>
+`cd patika-todo-exercise`<br/><br/>
 Run the following commands into the project folder to install project dependencies.<br/><br/>
 `npm init`<br/><br/>
 `npm install`<br/><br/>
