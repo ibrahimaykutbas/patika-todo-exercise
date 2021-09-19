@@ -5,6 +5,7 @@ ReactJS
 ## Tools
 - Redux
 - React Router DOM
+- Nano ID
 - Alertifyjs
 - Reactstrap
 - Bootstrap
