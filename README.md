@@ -1,4 +1,6 @@
 # Patika To-do Exercise
+![ss](https://user-images.githubusercontent.com/80921107/134781585-97a0863a-677b-4e9d-9e6b-417a5117a6c7.png)
+
 [Project Link](https://patika-todo-exercise.web.app/)
 ## Built With
 ReactJS
