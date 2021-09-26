@@ -13,10 +13,10 @@ function Form() {
   const currentIcon = useSelector((state) => state.todos.currentIcon);
 
   const handleSubmit = (e) => {
+    e.preventDefault();
     if (!title) return;
     dispatch(addTodo({ title, icon: currentIcon }));
     setTitle("");
-    e.preventDefault();
   };
 
   return (
