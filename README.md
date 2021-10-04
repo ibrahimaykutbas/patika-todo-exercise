@@ -1,10 +1,10 @@
-# Patika To-do Exercise
+# Patika To-do Ödev
 
 ![ss](https://user-images.githubusercontent.com/80921107/134781585-97a0863a-677b-4e9d-9e6b-417a5117a6c7.png)
 
-[Project Link](https://patika-todo-exercise.web.app/)
+[Proje sayfasına gitmek için buraya tıklayın..](https://patika-todo-exercise.web.app/)
 
-## Built With
+## Kurulum
 
 ReactJS
 
@@ -17,55 +17,53 @@ ReactJS
 - Reactstrap
 - Bootstrap
 
-## Features
+## Özellikler
 
-- Add todo by color.
-- Delete selected to-do.
-- Searching the to-do list.
+- Renge göre yapılacaklar ekleyin.
+- Seçilen yapılacakları silin.
+- Yapılacaklar listesinde arama yapabilme.
 
-## Getting Started
+## Başlangıç
 
-### Installation
-
-Clone this repository on your local machine.
+Bu depoyu yerel makinenizde klonlayın.
 
 ```
 git clone https://github.com/ibrahimaykutbas/patika-todo-exercise
 ```
 
-### Usage
+### Kullanım
 
-To use after cloning the project:
+Projeyi klonladıktan sonra kullanmak için:
 
 ```
 cd patika-todo-exercise
 cd .
 ```
 
-Run the following commands into the project folder to install project dependencies.
+Proje bağımlılıklarını yüklemek için proje klasörüne aşağıdaki komutları çalıştırın.
 
 ```
 npm init
 npm install
 ```
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+Bu talimatlar, geliştirme ve test amacıyla yerel makinenizde projenin bir kopyasını hazır ve çalışır hale getirecektir.
 
-## Available Scripts
+## Kullanılabilir Komut Dosyaları
 
-In the project directory, you can run:
+Proje dizininde şunları çalıştırabilirsiniz:
 
 ```
 npm start
 ```
 
-Runs the app in the development mode.
+Uygulamayı geliştirme modunda çalıştırır.
 
 ```
 http://localhost:3000
 ```
 
-## Learn More
-You can learn more in the [Create React App documentation](https://create-react-app.dev/docs/getting-started/).
+## Daha Fazla Bilgi İçin
+Daha fazlasını şuradan öğrenebilirsiniz: [Create React App documentation](https://create-react-app.dev/docs/getting-started/)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+React'i öğrenmek için şuraya göz atın:  [React documentation](https://reactjs.org/)
